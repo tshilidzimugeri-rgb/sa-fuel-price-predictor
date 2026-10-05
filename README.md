@@ -4,6 +4,8 @@ Predicts South Africa's next official petrol and diesel price adjustment from li
 international product prices and the rand, weeks before the Department of Mineral and
 Petroleum Resources (DMPR) announces it.
 
+**Live app: [sa-fuel-price-predictor.streamlit.app](https://sa-fuel-price-predictor.streamlit.app/)**
+
 ![App screenshot](assets/screenshot.png)
 
 ## Why
